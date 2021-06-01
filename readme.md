@@ -46,7 +46,7 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="container">
                 <a class="navbar-brand" href="index.html">
                     <p>
-                        <color=”#B22222″>Part of sokan jaya group</p>
+                        
                     <h2>PT.SOKAN JAYA <em>TRAVEL</em></h2>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
